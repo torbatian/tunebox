@@ -1,0 +1,13 @@
+{
+  "name": "tunebox",
+  "version": "0.0.1",
+  "description": "Config loader for node.js applications",
+  "main": "lib/index.js",
+  "repository": "https://github.com/torbatian/tunebox.git",
+  "author": "Hamed Torbatian <hamed.tm@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "joi": "^13.0.2"
+  }
+}
